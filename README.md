@@ -9,7 +9,7 @@ This repository contains all progress (code and data) of my song lyric and langu
 General Notes: All song lyrics were taken manually from https://www.azlyrics.com/ word-for-word. Code files are written in Python and were run in Jupyter Notebook via Anaconda for Mac OS.
 
 Content Descriptions:
-This repository contains three Jupyter Notebook run files, four .csv format data files, and six folders of song lyric text files. A brief description of each of these is given below; for more details on data selection and methodology, please refer to the accompanying project report document.
+This repository contains three Jupyter Notebook run files, four .csv format data files, and six folders of song lyric text files, as well as a project report document. A brief description of the main contents is given below; for more details on data selection and methodology, please refer to the project report document, titled "final-project-report-Olivia-Zhang".
 
 - The folder "songs-raw" contains the "exclusive" song dataset of full, unprocessed song lyrics, i.e. songs where the song artist (Taylor Swift) had exactly one co-writer.
 - The folder "songs-raw-extended" contains the "extended" dataset of full, unprocessed song lyrics, i.e. in addition to the songs in the "exclusive" dataset there are also songs where the song artist (Taylor Swift) had exactly one co-writer, though excluding instances when the co-writer is featured or duets on the song. 
